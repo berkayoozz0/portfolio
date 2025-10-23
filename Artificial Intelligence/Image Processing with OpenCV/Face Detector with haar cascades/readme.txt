@@ -1,0 +1,1 @@
+Python dilinde OpenCV kütüphanesi ile haar cascadeleri kullanarak bir yüz tespit uygulaması yaptım.

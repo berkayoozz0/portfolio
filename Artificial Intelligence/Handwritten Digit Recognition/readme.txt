@@ -1,0 +1,1 @@
+Python Tensorflow ile mnist uygulaması: 28x28 piksellik görselde yazan sayıyı tahmin etmeye yarar.

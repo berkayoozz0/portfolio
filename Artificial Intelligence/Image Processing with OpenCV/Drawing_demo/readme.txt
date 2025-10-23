@@ -1,0 +1,1 @@
+OpenCV ve Numpy kullanarak oluşturulan bir çizim uygulamasıdır. Drawing_demo.py dosyasını klasörde bulabilirsiniz.
