@@ -19,7 +19,7 @@ A versatile, dual-powered control board built around the robust ATmega328P micro
   <img width="1665" height="971" alt="Ekran görüntüsü 2026-04-30 180257" src="https://github.com/user-attachments/assets/274fb301-403c-4a3b-a600-4571d65b2d0a" />
 </p>
 
-#### Hardware Schematics
+### Hardware Schematics
 
 **Microcontroller, Programming, and I/O Interfaces:**
 <img width="1831" height="1083" alt="Ekran görüntüsü 2026-04-30 180556" src="https://github.com/user-attachments/assets/e06671b2-3070-490b-a097-42afc226162b" />
