@@ -17,6 +17,7 @@ An acoustic front-end array designed to capture and amplify audio signals with m
 *  **Microphones:** Knowles FG-Series professional audio microphones.
 *  **Preamplifier Stage:** OPA320 in a non-inverting configuration.
 *  **Power:** Li-Polymer battery with Low-Noise LDO Regulator.
+*  **Connectors:** 3.5mm audio jack
 <img width="1549" height="1152" alt="Ekran görüntüsü 2026-04-30 174130" src="https://github.com/user-attachments/assets/3515ecdd-0be0-4ec2-bf5a-dcfd5f55191d" />
 
 
