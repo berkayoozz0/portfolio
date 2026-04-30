@@ -16,14 +16,18 @@ To achieve high accuracy and modularity, the hardware architecture is split into
 An acoustic front-end array designed to capture and amplify audio signals with minimal noise.
 *  **Microphones:** Knowles FG-Series professional audio microphones.
 *  **Preamplifier Stage:** OPA320 in a non-inverting configuration.
-*  **Power:** Li-Polymer battery with Low-Noise LDO Regulator.
+*  **Power Management:** Li-Polymer battery with Low-Noise LDO Regulator.
 *  **Connectors:** 3.5mm audio jack
 <img width="1549" height="1152" alt="Ekran görüntüsü 2026-04-30 174130" src="https://github.com/user-attachments/assets/3515ecdd-0be0-4ec2-bf5a-dcfd5f55191d" />
 
 
 
-### Microcontroller Board
-The processing unit responsible for sampling the audio data, executing the TDOA mathematical model, and determining the localization vector.
+### Microcontroller & Signal Processing Board
+A high-performance processing core designed to handle high-speed analog-to-digital conversion, robust signal conditioning, and complex TDOA algorithm execution.
+*  **Microcontroller:** STM32H743VIT6 (ARM Cortex-M7) operating with a 25MHz external crystal and comprehensive decoupling/bypassing networks.
+*  **Signal Conditioning Stage:** Pseudo-differential inputs utilizing AD8276 difference amplifiers to maximize common-mode noise rejection before ADC sampling.
+*  **Power Management:** Regulated 3.3V supply via AMS1117 LDO, equipped with EMI filtering and strategic test points for hardware bring-up.
+*  **Connectivity & Interfaces:** USB Type-C with USBLC6 ESD protection and Common-Mode Choke (90R), 3.5mm audio inputs (PESD3V3L1BA protected), SWD debugging port, and UART output.
 <img width="1120" height="1159" alt="Ekran görüntüsü 2026-04-30 174710" src="https://github.com/user-attachments/assets/40ebe2af-9075-4fc6-b1aa-48cc6abbf04d" />
 
 
