@@ -59,4 +59,4 @@ Notice the careful component placement and routing to separate the digital retur
 
 
 ---
-*Designed by Berkay ÖZ
+Designed by Berkay ÖZ
