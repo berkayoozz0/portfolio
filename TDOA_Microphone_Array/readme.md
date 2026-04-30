@@ -22,7 +22,11 @@ An acoustic front-end array designed to capture and amplify audio signals with m
 
 
 
-**Microcontroller Board:** The processing unit responsible for sampling the audio data, executing the TDOA mathematical model, and determining the localization vector.
+### Microcontroller Board
+The processing unit responsible for sampling the audio data, executing the TDOA mathematical model, and determining the localization vector.
+<img width="1120" height="1159" alt="Ekran görüntüsü 2026-04-30 174710" src="https://github.com/user-attachments/assets/40ebe2af-9075-4fc6-b1aa-48cc6abbf04d" />
+
+
 
 ## Key Features & Specifications
 * **Hardware Stack:** 4-Layer PCB design with proper impedance control and ground shielding to ensure signal integrity for mixed-signal routing.
