@@ -14,7 +14,7 @@ This repository contains the hardware designs for my senior graduation thesis pr
 To achieve high accuracy and modularity, the hardware architecture is split into two custom-designed **4-layer PCBs**:
 ### Microphone & Analog Front-End Board
 An acoustic front-end array designed to capture and amplify audio signals with minimal noise.
-**Microphones:** Knowles FG-Series professional audio microphones.
+*  **Microphones:** Knowles FG-Series professional audio microphones.
 *  **Preamplifier Stage:** OPA320 in a non-inverting configuration.
 *  
 **Microcontroller Board:** The processing unit responsible for sampling the audio data, executing the TDOA mathematical model, and determining the localization vector.
