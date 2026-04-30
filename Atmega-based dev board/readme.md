@@ -12,17 +12,18 @@ A versatile, dual-powered control board built around the robust ATmega328P micro
     *   Comprehensive breakout headers providing easy, breadboard-friendly access to the microcontroller's GPIO pins.
 
 <p align="center">
-  <img src="image_e5a44f.png" alt="3D Render Front" width="800"/>
+  <img width="2035" height="973" alt="Ekran görüntüsü 2026-04-30 180225" src="https://github.com/user-attachments/assets/edf20b1c-91c1-49a6-87a8-687e61b78466" />
 </p>
 
 <p align="center">
-  <img src="image_e5a432.jpg" alt="3D Render Back" width="800"/>
+  <img width="1665" height="971" alt="Ekran görüntüsü 2026-04-30 180257" src="https://github.com/user-attachments/assets/274fb301-403c-4a3b-a600-4571d65b2d0a" />
 </p>
 
 #### Hardware Schematics
 
 **Microcontroller, Programming, and I/O Interfaces:**
-![MCU and Interfaces Schematic](image_e5a42e.png)
+<img width="1831" height="1083" alt="Ekran görüntüsü 2026-04-30 180556" src="https://github.com/user-attachments/assets/e06671b2-3070-490b-a097-42afc226162b" />
+
 
 **Power Supply & AC/DC Conversion Stage:**
-![Power Stage Schematic](image_e5a473.jpg)
+<img width="1964" height="1071" alt="Ekran görüntüsü 2026-04-30 180626" src="https://github.com/user-attachments/assets/b7134b65-34a9-48d2-8c46-0a488224f474" />
