@@ -59,4 +59,4 @@ Notice the careful component placement and routing to separate the digital retur
 
 
 ---
-*Designed with KiCad*
+*Designed by Berkay ÖZ
