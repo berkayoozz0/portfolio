@@ -30,9 +30,10 @@ A high-performance processing core designed to handle high-speed analog-to-digit
 *  **Connectivity & Interfaces:** USB Type-C with USBLC6 ESD protection and Common-Mode Choke (90R), 3.5mm audio inputs (PESD3V3L1BA protected), SWD debugging port, and UART output.
 <img width="1120" height="1159" alt="Ekran görüntüsü 2026-04-30 174710" src="https://github.com/user-attachments/assets/40ebe2af-9075-4fc6-b1aa-48cc6abbf04d" />
 
----
-*Designed by Berkay ÖZ
-
 ## Key Features & Specifications
 * **Layer Stackup:** 4-Layer PCB design (Power+Signal - Ground - Ground - Power+Signal) with proper impedance control and ground shielding to ensure signal integrity for mixed-signal routing.
 * **EDA Tool:** Designed completely from scratch using **KiCad**.
+
+
+---
+*Designed by Berkay ÖZ
