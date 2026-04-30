@@ -16,7 +16,7 @@ A versatile, dual-powered control board built around the robust ATmega328P micro
   
 *   **Microcontroller:** At the heart of the board is the ATmega328P-PU, providing a reliable and robust processing unit for continuous industrial or automation tasks.
   <img width="1831" height="1083" alt="Ekran görüntüsü 2026-04-30 180556" src="https://github.com/user-attachments/assets/e06671b2-3070-490b-a097-42afc226162b" />
-*   **Onboard Programming:** Integrated CH340C USB-to-Serial IC allows for seamless programming directly through the USB Type-C port, making it incredibly easy to interface with PCs and other devices without needing external FTDI adapters.
+* **Onboard Programming:** Integrated CH340C USB-to-Serial IC allows for seamless programming directly through the USB Type-C port, making it incredibly easy to interface with PCs and other devices without needing external FTDI adapters.
 
 *   **Outputs & Connectivity:** 
     *   Dedicated 12V Fan output (featuring optocoupler isolation to protect the MCU).
