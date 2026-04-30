@@ -33,5 +33,5 @@ A high-performance processing core designed to handle high-speed analog-to-digit
 
 
 ## Key Features & Specifications
-* **Hardware Stack:** 4-Layer PCB design with proper impedance control and ground shielding to ensure signal integrity for mixed-signal routing.
+* **Layer Stackup:** 4-Layer PCB design (Power+Signal - Ground - Ground - Power+Signal) with proper impedance control and ground shielding to ensure signal integrity for mixed-signal routing.
 * **EDA Tool:** Designed completely from scratch using **KiCad**.
