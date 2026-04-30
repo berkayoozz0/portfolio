@@ -8,7 +8,7 @@
 
 
 ## Project Overview
-This repository contains a training and practice board designed as part of the **The Life Cycle of an Electronic Board**. 
+This repository contains a training and practice board designed as part of the **The Life Cycle of an Electronic Board** on xBowtie by Mustafa Berk Aydoğan. 
 
 The primary goal of this project was not to build a commercial end-product, but rather to establish a strong foundational understanding of PCB layout techniques, component placement strategies, and EDA tool workflows. It serves as a hands-on milestone in my continuous hardware engineering education.
 
