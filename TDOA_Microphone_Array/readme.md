@@ -5,7 +5,8 @@
 
 
 <img width="2325" height="1217" alt="ön" src="https://github.com/user-attachments/assets/46f9480d-f791-4b35-8732-bf4d43187ac0" />
-<img width="2325" height="1217" alt="Adsız" src="https://github.com/user-attachments/assets/b75b7787-3831-417a-a3cd-0ad8293ae090" />
+<img width="2325" height="1217" alt="Adsız" src="https://github.com/user-attachments/assets/8d16b9c6-5b33-4837-835f-9ca10c3303ba" />
+
 
 ## Project Overview
 This repository contains the hardware designs for my senior graduation thesis project. The system is designed to detect and calculate the direction of a sound source in real-time using the **Time Difference of Arrival (TDOA)** algorithm. 
