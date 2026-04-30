@@ -36,4 +36,4 @@ A high-performance processing core designed to handle high-speed analog-to-digit
 
 
 ---
-*Designed by Berkay ÖZ
+Designed by Berkay ÖZ
