@@ -16,7 +16,11 @@ To achieve high accuracy and modularity, the hardware architecture is split into
 An acoustic front-end array designed to capture and amplify audio signals with minimal noise.
 *  **Microphones:** Knowles FG-Series professional audio microphones.
 *  **Preamplifier Stage:** OPA320 in a non-inverting configuration.
-*  
+*  **Power:** Li-Polymer battery with Low-Noise LDO Regulator.
+<img width="1549" height="1152" alt="Ekran görüntüsü 2026-04-30 174130" src="https://github.com/user-attachments/assets/3515ecdd-0be0-4ec2-bf5a-dcfd5f55191d" />
+
+
+
 **Microcontroller Board:** The processing unit responsible for sampling the audio data, executing the TDOA mathematical model, and determining the localization vector.
 
 ## Key Features & Specifications
