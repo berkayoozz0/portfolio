@@ -1,6 +1,10 @@
 # Wireless Security Detector Board
-<img width="1060" height="762" alt="1739477836499" src="https://github.com/user-attachments/assets/f193c5e9-0b25-4ca9-8b7b-823d40f38994" />
-<img width="634" height="634" alt="1739477835205" src="https://github.com/user-attachments/assets/1213ca48-60a3-4cb0-85f3-a9ca397e8abf" />
+<p align="center">
+  <img width="1060" height="762" alt="1739477836499" src="https://github.com/user-attachments/assets/f193c5e9-0b25-4ca9-8b7b-823d40f38994" />
+</p>
+<p align="center">
+  <img width="634" height="634" alt="1739477835205" src="https://github.com/user-attachments/assets/6cdcb9b5-53d2-4945-b83b-87ad22fec917" />
+</p>
 
 
 ## Project Overview
