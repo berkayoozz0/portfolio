@@ -1,7 +1,6 @@
 # TDOA-Based Sound Source Localization System (Assembled & Tested)
 
 
-https://github.com/user-attachments/assets/0f3fce5f-9c3e-41e7-956b-9c11ac9677e0
 
 
 <img width="1600" height="1200" alt="öndizgi" src="https://github.com/user-attachments/assets/e06981a2-2f88-485f-8bf7-a307525b698a" />
@@ -16,6 +15,11 @@ https://github.com/user-attachments/assets/0f3fce5f-9c3e-41e7-956b-9c11ac9677e0
 
 ## Project Overview
 This repository contains the hardware designs for my senior graduation thesis project. The system is designed to detect and calculate the direction of a sound source in real-time using the **Time Difference of Arrival (TDOA)** algorithm.
+
+
+
+https://github.com/user-attachments/assets/5161046b-f6d6-42c1-9d55-16c957d7743d
+
 
 <img width="1451" height="1447" alt="sistem" src="https://github.com/user-attachments/assets/ed27e77e-8120-49d5-9e24-185087aa3ef6" />
 <img width="1500" height="765" alt="ayrı" src="https://github.com/user-attachments/assets/bd4290ee-9058-4a83-910a-5910a0705d95" />
