@@ -43,6 +43,7 @@ A high-performance processing core designed to handle high-speed analog-to-digit
 *  **Power Management:** Regulated 3.3V supply via AMS1117 LDO, equipped with EMI filtering and strategic test points for hardware bring-up.
 *  **Connectivity & Interfaces:** USB Type-C with USBLC6 ESD protection and Common-Mode Choke (90R), 3.5mm audio inputs (PESD3V3L1BA protected), SWD debugging port, and UART output.
 <img width="1120" height="1159" alt="Ekran görüntüsü 2026-04-30 174710" src="https://github.com/user-attachments/assets/40ebe2af-9075-4fc6-b1aa-48cc6abbf04d" />
+<img width="990" height="906" alt="Ekran görüntüsü 2026-06-26 142918" src="https://github.com/user-attachments/assets/ec4c488c-6a69-425e-bfa1-ee342bf0d83d" />
 
 ## Key Features & Specifications
 * **Layer Stackup:** 4-Layer PCB design (Power+Signal - Ground - Ground - Power+Signal) with proper impedance control and ground shielding to ensure signal integrity for mixed-signal routing.
